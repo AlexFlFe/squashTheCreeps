@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Battle-Furious.mp3-d5ec8aaa8fddd1e7b40f53c808981352.mp3str"
+
+[deps]
+
+source_file="res://art/Battle-Furious.mp3"
+dest_files=[ "res://.import/Battle-Furious.mp3-d5ec8aaa8fddd1e7b40f53c808981352.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
